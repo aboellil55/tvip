@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",SAMA DUBAI
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI.ZAMAN
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="قنوات الامارات EMIRATES",Abu Dhabi TV HD
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Abu Dhabi Drama HD
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Emarat HD
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Dafrah TV
-http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Sharjah
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALAN
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
 #EXTINF:0 tvg-id="avi" group-title="Saudi-Arabia tv",▁▂▃▅▆▇★☀二【« Saudi-Arabia tv »】二☀★▇▆▅▃▂▁
 http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Iqraa-Tv
